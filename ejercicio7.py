@@ -18,5 +18,5 @@ def secuencia(x):
 		cant=cant-1
 		con=1
 		a=a-1
-e=input ("ingrese el numero")
+e=input ("insertar un numero:")
 secuencia(x)
